@@ -1,0 +1,1 @@
+A  machine learning model to predict the likelihood of diabetes in patients based on health parameters such as glucose levels, BMI, and age. The project involved data preprocessing, model building, and deployment as a web application.
